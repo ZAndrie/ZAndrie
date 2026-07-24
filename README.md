@@ -1,6 +1,6 @@
 # andrie-about
 
-````markdown
+
 <div align="center">
 
 # Hi, I'm Z Andrie Barraba! 👋
