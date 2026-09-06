@@ -2,10 +2,6 @@
 
 
 <div align="center">
-  <img src="./assets/header.gif" width="100%" alt="Z Andrie Header">
-</div>
-
-<br>
 
 # Hi, I'm Z Andrie Barraba! 👋
 
