@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace the src link below with the direct URL to your own GIF -->
-  <img src="YOUR_GIF_DIRECT_LINK_HERE.gif" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://in.pinterest.com/pin/355643701849385420/" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <br>
