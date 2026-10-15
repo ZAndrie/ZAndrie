@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace the src link below with the direct URL to your own GIF -->
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
+  <img src="YOUR_GIF_DIRECT_LINK_HERE.gif" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <br>
