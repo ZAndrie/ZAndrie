@@ -1,13 +1,6 @@
 <div align="center">
-
-<!-- 
-  INSTRUCTIONS:
-  1. Download the GIF from your Pinterest link.
-  2. Upload the GIF into your ZAndrie GitHub repository.
-  3. Replace the 'src' link below with the raw GitHub link of your uploaded GIF, or use a relative path like src="./banner.gif" if it's in the same folder as this README. 
--->
-  <img src="YOUR_GIF_DIRECT_LINK_HERE.gif" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
-
+  <!-- Replace the src link below with the direct URL to your own GIF -->
+  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <br>
